@@ -57,14 +57,14 @@
 		"tar": "^7.4.3",
 		"tslib": "^2.6.2",
 		"underscore": "^1.13.8",
-		"undici": "^6.10.2",
+		"undici": "^8.11.2",
 		"unzipper": "^0.12.1",
 		"uiohook-napi": "^1.5.4"
 	},
 	"devDependencies": {
 		"@types/node": "^24.10.0",
 		"@types/unzipper": "^0.10.9",
-		"electron": "^38.1.2"
+		"electron": "^44.5.1"
 	},
 	"keywords": [
 		"electron",
